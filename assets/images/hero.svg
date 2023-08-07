@@ -1,0 +1,16 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1440"
+  height="810"
+  viewBox="0 0 1440 810"
+  fill="none"
+>
+  <!-- Use the <image> element to add your PNG image as a mask -->
+  <image xlink:href="/assets/images/hero-img.png" width="100%" height="100%" />
+
+  <!-- Define the same clipPath as before -->
+  <clipPath id="maskClipPath">
+    <path d="M1440 0H0V810H1440V0Z" fill="white" />
+  </clipPath>
+</svg>
